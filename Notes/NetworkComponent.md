@@ -13,4 +13,5 @@
   - `Full-duplex` : Bidirectional @ same time
   - `Half-duplex` : Bidirectional @ different frequency (wireless)
   - `Simplex` : Unidirectional
-  
+
+
