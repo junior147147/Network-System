@@ -1,4 +1,5 @@
-- Component Names:
+Component Names:
+---
 
 *Component* | *Function* | *Example*
 --- | --- | ---
@@ -6,3 +7,10 @@
 `Host` | Supports apps | Laptop,Mobile
 `Router` | Relays messages between links | Access point, cable, modem
 `Link` | Connects nodes | Wires, wireless
+
+Type of Links
+-------------
+  - `Full-duplex` : Bidirectional @ same time
+  - `Half-duplex` : Bidirectional @ different frequency (wireless)
+  - `Simplex` : Unidirectional
+  
