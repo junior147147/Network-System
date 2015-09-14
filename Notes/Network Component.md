@@ -1,5 +1,5 @@
-Component Names:
----
+* **Component Names**
+
 
 *Component* | *Function* | *Example*
 --- | --- | ---
@@ -8,8 +8,8 @@ Component Names:
 `Router` | Relays messages between links | Access point, cable, modem
 `Link` | Connects nodes | Wires, wireless
 
-Type of Links
--------------
+* **Type of Links**
+
   - `Full-duplex` : Bidirectional @ same time
   - `Half-duplex` : Bidirectional @ different frequency (wireless)
   - `Simplex` : Unidirectional
