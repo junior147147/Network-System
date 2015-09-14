@@ -1,5 +1,5 @@
 - Component Names:
-- 
+
 *Component* | *Function* | *Example*
 --- | --- | ---
 `App` | Uses the network | Skype,Itunes,Amazon
