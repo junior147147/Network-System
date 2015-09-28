@@ -13,7 +13,7 @@ Problem 2
 
 Problem 3
 ---------------------------
-![]()
+![](http://s8.postimg.org/mh8c76cmt/img003.jpg)
 
 
 
