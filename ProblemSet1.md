@@ -52,10 +52,10 @@ Problem	8
 ---------------
 **Consider the following networked computers connected by Bridge X and Y. Bridge X has interface 1,2 and3. Bridge Y has interface 1 and 2. Assume at the beginning the address tables of Bridge X and Y are all empty. Write down the address tables of Bridge X and Y after the following communication finished.**
 
-![]()
+![](http://s22.postimg.org/gf2zzd4ap/img007.jpg)
 
 Problem 9 - 10
 --------------------------
 
-![]()
+![](http://s18.postimg.org/3u10hfmll/img008.jpg)
 
