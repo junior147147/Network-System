@@ -13,7 +13,7 @@ Problem 2
 
 Problem 3
 ---------------------------
-![](http://s8.postimg.org/mh8c76cmt/img003.jpg)
+![](http://s18.postimg.org/5zlo12ucp/img003.jpg)
 
 
 
@@ -32,14 +32,14 @@ Problem 5
 -----------------
 **Consider a go-back-n sliding window algorithm running over a 40-km point-topoint fiber link.**
 
-![]()
+![](http://s14.postimg.org/csjlfodtt/img004.jpg)
 
 
 Problem	6
 ---------------
 **Draw a time line diagram for the sliding window algorithm with SWS = RWS = 3 frames, for the following two situations. Use a timeout interval of about 2 × RTT.**
 
-![]()
+![](http://s11.postimg.org/6oc2b8dmr/img005.jpg)
 
 
 Problem 7 
