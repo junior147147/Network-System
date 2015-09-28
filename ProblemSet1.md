@@ -22,3 +22,27 @@ Problem 4
 (b).The scheme outlined here is the stop-and-wait algorithm of Section 2.5; as is indicated there, a header with at least one bit of sequence number is needed (to distinguish between receiving a new packet and a duplication of the previous packet)
 
 (c).With out-of-order delivery allowed, packets up to 1 minute apart must be distinguishable via sequence number. Otherwise a very old packet might arrive and be accepted as current. Sequence numbers would have to count as high as bandwidth × 1minute /packet size
+
+Problem 5 
+-----------------
+**Consider a go-back-n sliding window algorithm running over a 40-km point-topoint fiber link.**
+
+
+Problem	6
+---------------
+**Draw	a	time	line	diagram	for	the	sliding	window	algorithm	with	SWS	=	RWS	=	3	
+frames,	for	the	following	two	situations.	Use	a	timeout	interval	of	about	2	×	RTT.**
+
+
+Problem 7 
+---------------
+**Suppose that we attempt to run the sliding window algorithm with SWS = RWS = 3 and with MaxSeqNum = 5. The N th packet DATA[N] thus actually contains N mod 5 in its sequence number field. Assume no out-of-order arrivals. Give an example in which the algorithm becomes confused PLEASE DRAW IT OUT; that is, a scenario for example which the receiver expects DATA[5] and accepts DATA[0]—which has the same transmitted sequence number—in its stead. Note that this implies MaxSeqNum ≥ 6 is necessary and MaxSeqNum = 6 is sufficient.**
+
+
+Problem	8
+---------------
+**Consider the following networked computers connected by Bridge X and Y. Bridge X has interface 1,2 and3. Bridge Y has interface 1 and 2. Assume at the beginning the address tables of Bridge X and Y are all empty. Write down the address tables of Bridge X and Y after the following communication finished.**
+
+Problem 9 - 10
+--------------------------
+
