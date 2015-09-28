@@ -46,7 +46,7 @@ Problem 7
 ---------------
 **Suppose that we attempt to run the sliding window algorithm with SWS = RWS = 3 and with MaxSeqNum = 5. The N th packet DATA[N] thus actually contains N mod 5 in its sequence number field. Assume no out-of-order arrivals. Give an example in which the algorithm becomes confused PLEASE DRAW IT OUT; that is, a scenario for example which the receiver expects DATA[5] and accepts DATA[0]—which has the same transmitted sequence number—in its stead. Note that this implies MaxSeqNum ≥ 6 is necessary and MaxSeqNum = 6 is sufficient.**
 
-![]()
+![](http://s28.postimg.org/n3ss4da65/img006.jpg)
 
 Problem	8
 ---------------
