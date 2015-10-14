@@ -1,0 +1,6 @@
+Yu Zhou (Programming Assignment 1)
+CSCI 4273
+
+server can be start: ./server
+
+Configuration is with ws.conf, can modify listen port and documentroot and directoryindex.
